@@ -1,0 +1,17 @@
+[
+    {
+        "id": "auto_qsave",
+        "name": "Auto Quick Save",
+        "author": "wasikuss",
+        "version": "0.1.0",
+        "description": "This mod allows to setup automatic saving game interval.",
+        "files": {
+            "Info/Lua/modconf/auto_qsave.lua": "https://github.com/wasikuss/castle-story-auto-qsave/releases/download/0.1.0/auto_qsave.lua",
+            "BepInEx/plugins/CastleStory_AutoQsave.dll": "https://github.com/wasikuss/castle-story-auto-qsave/releases/download/0.1.0/CastleStory_AutoQsave.dll"
+        },
+        "updated": 1649988600,
+        "typeDependencies": [{
+            "BepInEx": "5.x"
+        }]
+    }
+]
